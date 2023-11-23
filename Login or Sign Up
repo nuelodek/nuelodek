@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+   
+  <style>
+    body {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    }
+    .container {
+  max-width: 290px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px; 
+  border: 1px solid #ccc;
+  background-color: transparent;
+}
+
+a {
+  color: #0024029d;
+  text-decoration: none;
+}
+
+a:hover  {
+  font-weight: bold;
+}
+h2 {
+  text-align: center;
+}
+
+.provact {
+  
+  text-align: center;
+}
+
+
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+ 
+input[type="email"],
+input[type="password"] {
+  width: 94%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+
+select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #520afc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+.travelstorit  {
+  width: 200px;
+  height: 200px;
+  margin-left: 570px;
+  margin-bottom: -30px;
+}
+
+
+    </style>
+</head>
+<body>
+
+
+
+  
+    <img src="peaklogo.png" class="travelstorit">
+    
+  <div class="container">
+
+    
+    <form method="post" action="login.php">
+      <h2 class="loginheader">Login</h2>
+      <h2 class="signupheader" style="display: none;">Sign Up</h2>
+      <h2 class="forgetheader" style="display: none;">Forget Password</h2>
+
+      <select name="profileType" id="profileType" class="profiletype">
+
+        <option value="" disabled selected>  <i> Select Profile Type</i></option>
+        <option value="profile1">Job Seeker</option>
+        <option value="profile1">Scholarship Seeker</option>
+        <option value="profile1">Study Aspirant</option>
+        <option value="profile2">Travel Aspirant</option>
+        <option value="profile3">Travel Recruiter</option>
+        <option value="profile3">Student Recruiter</option>
+        <option value="profile4">Travel Consultant</option>
+        <option value="profile4">Admission Consultant</option>
+
+
+
+      </select>
+      <div class="loginclassy">
+      <input type="email" placeholder =" Email" name="email" id="email" required>
+      <input type="password" placeholder ="Password" name="password" id="password" required>
+      <input type="submit" value="Login">  
+      </div>
+
+      <div class="signupclassy" style="display:none">
+      <input type="email" placeholder ="Email" name="email" id="email" required>
+      <input type="password" placeholder ="Password" name="password" id="password" required>
+      <input type="password" placeholder ="Confirm Password" name="password" id="password" required>
+
+      <input type="submit" value="Sign Up">  
+      </div>
+
+      <div class="forgetclassy" style="display:none">
+        <input type="email" placeholder ="Type Email" name="email" id="email" required>
+        <input type="submit" value="Retrive Password">  
+        </div>
+
+    </form>
+<br>
+
+<div class="signuptext">
+<small>
+    <b>No Account Yet?  </b>
+    <br>
+    <a href="#" class="signuplink" onclick="toggleSignup()">Sign Up</a>
+</small>
+
+<small>
+    or <a href="#" class="forgetlink" onclick="toggleForget()"> Forgot Password?</a>
+</small>
+</div>
+
+
+<div class="logintext" style="display:none">
+  <small>
+    <b>Already Registered?</b>
+    <br>
+    <a href="#" class="loginlink" onclick="toggleLogin()">Login</a>
+</small>
+</div>
+
+
+<div class="forgettext" style="display:none">
+  <small>
+    <b> Registered?</b>
+    <br>
+    <a href="#" class="loginlink" onclick="toggleLogin()">Login</a>
+    </small>
+    <small>
+
+      or     <a href="#" class="signuplink" onclick="toggleSignup()">Sign Up</a>
+
+  </small>
+</small>
+</div>
+
+    </div>
+    <div class="provact">
+    <p text-align="center"><small id="copyright">
+    </small> 
+      <br> 
+
+      <small>    
+        <a href="Privacy.html"> Privacy Policy</a>  and 
+    <a href="Privacy.html"> Terms of Use</a>   </small>
+  </p>
+</div>
+
+<script>
+  // Get the current year
+  var currentYear = new Date().getFullYear();
+
+  // Update the content of the small element with the copyright information
+  document.getElementById('copyright').textContent = 'Copyright ©' + currentYear + ' Peak Travels & Tours Ltd.';
+</script>
+<script>
+  function toggleLogin() {
+      var loginText = document.querySelector('.logintext');
+      var loginClassy = document.querySelector('.loginclassy');
+      var headerlogin = document.querySelector('.loginheader');
+
+      loginText.style.display = 'none';
+      loginClassy.style.display = 'block';      
+      headerlogin.style.display='block';
+
+      var signupText = document.querySelector('.signuptext');
+      var signupClassy = document.querySelector('.signupclassy');
+      var headersignup = document.querySelector('.signupheader');
+
+      signupText.style.display = 'block';
+      signupClassy.style.display = 'none';
+      headersignup.style.display='none';
+
+      var forgetClassy = document.querySelector('.forgetclassy');
+      var forgetHeader = document.querySelector ('.forgetheader');
+      var forgetText = document.querySelector ('.forgettext');
+
+      forgetClassy.style.display = 'none';
+      forgetHeader.style.display='none';
+      forgetText.style.display='none';
+
+  }
+
+  function toggleSignup() {
+      var signupText = document.querySelector('.signuptext');
+      var signupClassy = document.querySelector('.signupclassy');
+      var headersignup = document.querySelector('.signupheader');
+
+      signupText.style.display = 'none';
+      signupClassy.style.display = 'block';
+      headersignup.style.display='block';
+
+
+      var loginText = document.querySelector('.logintext');
+      var loginClassy = document.querySelector('.loginclassy');
+      var headerlogin = document.querySelector('.loginheader');
+     
+      loginText.style.display = 'block';
+      loginClassy.style.display = 'none';
+      headerlogin.style.display='none';
+
+      var forgetClassy = document.querySelector('.forgetclassy');
+      var forgetHeader = document.querySelector ('.forgetheader');
+      var forgetText = document.querySelector ('.forgettext');
+
+      forgetClassy.style.display = 'none';
+      forgetHeader.style.display='none';
+      forgetText.style.display='none';
+  }
+
+  function toggleForget() {
+  var forgetLink = document.querySelector('.forgetlink');
+  var forgetClassy = document.querySelector('.forgetclassy');
+  var forgetHeader = document.querySelector ('.forgetheader');
+  var forgetText = document.querySelector ('.forgettext');
+
+  forgetClassy.style.display = 'block';
+  forgetHeader.style.display='block';
+  forgetText.style.display='block';
+
+  var signupText = document.querySelector('.signuptext');
+  var signupClassy = document.querySelector('.signupclassy');
+  var headersignup = document.querySelector('.signupheader');
+
+  signupText.style.display = 'none';
+  signupClassy.style.display = 'none';
+  headersignup.style.display = 'none';
+
+  var loginText = document.querySelector('.logintext');
+  var loginClassy = document.querySelector('.loginclassy');
+  var headerlogin = document.querySelector('.loginheader');
+
+  loginText.style.display = 'none';
+  loginClassy.style.display = 'none';
+  headerlogin.style.display = 'none';
+}
+
+</script>
+  </body>
+</html>

@@ -36,6 +36,7 @@ Email: nuelodekunle20@gmail.com
 Linkedin: https://bit.ly/link-emmy
 Address: Lagos 
 GitHub: https://github.com/nuelodek
+Resume: 
 
 <!---
 nuelodek/nuelodek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

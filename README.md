@@ -15,60 +15,59 @@ Time Management	Adaptability	Financial Analysis Marketing Strategy
 Customer Relationship Management (CRM)	
 
 **Links to portfolio**
-Shortchase: https://shortchaseclient.netlify.app/
 
-A dynamic platform offering an easy-to-use solution for finding and comparing real estate properties.
-Gegeto EdTech: https://gegeto.com.ng
+- Shortchase: https://shortchaseclient.netlify.app/
+   A dynamic platform offering an easy-to-use solution to predict sporting events and find sure odds.
+  
+- Gegeto EdTech: https://gegeto.com.ng
+  An educational platform designed to provide students with innovative learning tools and resources.
 
-An educational platform designed to provide students with innovative learning tools and resources.
-Simplr Business Suite: https://simplr.com.ng
+- Simplr Business Suite: https://simplr.com.ng
+  A comprehensive business management tool offering features to streamline operations and drive growth.
 
-A comprehensive business management tool offering features to streamline operations and drive growth.
-Yinetai: https://yinetai.com
+- Yinetai: https://yinetai.com
+  A platform that connects businesses to bespoke privacy engine solutions.
 
-A platform that connects users with professional networking opportunities and career advancement resources.
-TCS Academics: https://github.com/nuelodek/tcs
+- TCS Academics: https://github.com/nuelodek/tcs
+  A GitHub-hosted academic management system for educational institutions to manage student data and operations.
 
-A GitHub-hosted academic management system for educational institutions to manage student data and operations.
-TaskSwap: https://taskswap.com.ng
+ - TaskSwap: https://taskswap.com.ng
+  A task management tool that enables users to swap tasks and collaborate effectively on projects.
 
-A task management tool that enables users to swap tasks and collaborate effectively on projects.
-Grow Social: https://growsocial.com.ng
+ - Grow Social: https://growsocial.com.ng
+   A social media management platform that helps businesses grow their online presence and engage with audiences.
+   
+- The Virtual Adviser: https://thevirtualadviser.com.ng
+  A virtual advisory service offering expert business consulting and personalized advice to startups, individuals and SMEs.
+  
+- Breakout Inc.: https://breakoutinc.com.ng
+  An innovative platform that offers poets and writers the global stage to be heard, read, seen and succeed.
 
-A social media management platform that helps businesses grow their online presence and engage with audiences.
-The Virtual Adviser: https://thevirtualadviser.com.ng
+- Orange Consultium: https://orangeconsultium.wordpress.com
+  A consulting blog providing insights and strategies for business development and operational efficiency.
 
-A virtual advisory service offering expert business consulting and personalized advice to startups and SMEs.
-Breakout Inc.: https://breakoutinc.com.ng
+- Sell Your Startup: https://sellyourstartup.com.ng
+  A platform for entrepreneurs to showcase and sell their startups to potential investors and buyers.
 
-An innovative platform that offers business incubation services, helping startups scale and succeed.
-Orange Consultium: https://orangeconsultium.wordpress.com
+  Signals Point: https://signalspoint.com.ng
+  - A financial trading platform that provides users with market signals and investment insights.
 
-A consulting blog providing insights and strategies for business development and operational efficiency.
-Sell Your Startup: https://sellyourstartup.com.ng
+-  Peak Edu & Travels: https://peaktravels.com.ng
+   A service-oriented platform offering educational and travel consultancy for students seeking opportunities abroad.
 
-A platform for entrepreneurs to showcase and sell their startups to potential investors and buyers.
-Signals Point: https://signalspoint.com.ng
+- Eureka: https://eureka.com.ng
+  A platform that helps people connect with lost friends and find lost items with resources and funding opportunities.
 
-A financial trading platform that provides users with market signals and investment insights.
-Peak Edu & Travels: https://peaktravels.com.ng
-
-A service-oriented platform offering educational and travel consultancy for students seeking opportunities abroad.
-Eureka: https://eureka.com.ng
-
-A platform that promotes innovation by connecting inventors with resources and funding opportunities.
-Who is Who: https://whoiswho.com.ng
-
-An online directory that profiles influential figures and leaders in various industries across Nigeria.
+- Who is Who: https://whoiswho.com.ng
+  A social online directory that profiles influential figures and leaders in various industries across Nigeria and elsewhere.
 
 
 **Contact Info**
 Whatsapp: +2349151294786  
 Email: nuelodekunle20@gmail.com 
 Linkedin: https://bit.ly/link-emmy
-Address: Lagos 
+Address: Lagos and Sagamu
 GitHub: https://github.com/nuelodek
-Resume: 
 
 <!---
 nuelodek/nuelodek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

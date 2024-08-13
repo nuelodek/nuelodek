@@ -63,11 +63,11 @@ Customer Relationship Management (CRM)
 
 
 **Contact Info**
-Whatsapp: +2349151294786  
-Email: nuelodekunle20@gmail.com 
-Linkedin: https://bit.ly/link-emmy
-Address: Lagos and Sagamu
-GitHub: https://github.com/nuelodek
+Whatsapp: +2349151294786     
+Email: nuelodekunle20@gmail.com    
+Linkedin: https://bit.ly/link-emmy   
+Address: Lagos and Sagamu   
+GitHub: https://github.com/nuelodek   
 
 <!---
 nuelodek/nuelodek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

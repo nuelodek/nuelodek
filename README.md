@@ -15,7 +15,8 @@ Time Management	Adaptability	Financial Analysis Marketing Strategy
 Customer Relationship Management (CRM)	
 
 **Links to portfolio**
-
+Shortchase 
+•	Gegeto EdTech: https://gegeto.com.ng
 •	Simplr Business Suite: https://simplr.com.ng
 •	Yinetai: https://yinetai.com
 •	TCS Academics – https://github.com/nuelodek/tcs	

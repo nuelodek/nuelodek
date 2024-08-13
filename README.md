@@ -1,13 +1,13 @@
-**SUMMARY**
+**SUMMARY**   
 Experienced Full Stack Developer with a Bachelor's Degree in Economics with a demonstrated history of working in various industries. Skilled in NODE.JS, NEXT.JS, REACT, PHP, HTML, CSS, JAVASCRIPT, JSON, JQUERY, PHP, MYSQL, Python, and Laravel to create web platforms, and Restful APIs. Proven track record of delivering high-quality, broad and scalable web platforms and applications. Excellent problem-solving skills and a strong ability to collaborate with multidisciplinary teams.
 
-**TOOLKIT**
+**TOOLKIT**   
 Postgre SQL	Figma	VSCode	GitHub	PhpMyAdmin
 Canva	QuickBooks	Microsoft Suites	Slack	Google Meet
 Jira	Docker	Cassandra	Copy Genius	Google Analytics
 WordPress	PhpMyAdmin	ChatGPT	Postman	Google Workspace
 
-**SKILL CLOUD**
+**SKILL CLOUD**   
 Forex Trading	Programming	Animation	Prototyping Web Development
 Digital Marketing	Financial Analysis	Copy Writing Book Publishing	
 Project Management Team Leadership	UI/UX Designing Problem-Solving	
@@ -49,8 +49,8 @@ Customer Relationship Management (CRM)
 - Sell Your Startup: https://sellyourstartup.com.ng
   A platform for entrepreneurs to showcase and sell their startups to potential investors and buyers.
 
-  Signals Point: https://signalspoint.com.ng
-  - A financial trading platform that provides users with market signals and investment insights.
+- Signals Point: https://signalspoint.com.ng
+  A financial trading platform that provides users with market signals and investment insights.
 
 -  Peak Edu & Travels: https://peaktravels.com.ng
    A service-oriented platform offering educational and travel consultancy for students seeking opportunities abroad.

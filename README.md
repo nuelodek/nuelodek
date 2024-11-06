@@ -16,13 +16,13 @@ Customer Relationship Management (CRM)
 
 **Links to portfolio**
 
-- Shortchase: https://shortchaseclient.netlify.app/   
+- Shortchase: https://shortchase.com/  and https://admin.shortchase.com 
    A dynamic platform offering an easy-to-use solution to predict sporting events and find sure odds.
   
 - Gegeto EdTech: https://gegeto.com.ng   
   An educational platform designed to provide students with innovative learning tools and resources.
 
-- Simplr Business Suite: https://simplr.com.ng   
+- Simplr Business Suite: https://simplr.com.ng   (under maintenance)
   A comprehensive business management tool offering features to streamline operations and drive growth.
 
 - Yinetai: https://yinetai.com   
@@ -31,34 +31,34 @@ Customer Relationship Management (CRM)
 - TCS Academics: https://github.com/nuelodek/tcs   
   A GitHub-hosted academic management system for educational institutions to manage student data and operations.
 
- - TaskSwap: https://taskswap.com.ng   
+ - TaskSwap: https://taskswap.com.ng   (under maintenance)
   A task management tool that enables users to swap tasks and collaborate effectively on projects.
 
- - Grow Social: https://growsocial.com.ng   
+ - Grow Social: https://growsocial.com.ng   (under maintenance)
    A social media management platform that helps businesses grow their online presence and engage with audiences.
    
-- The Virtual Adviser: https://thevirtualadviser.com.ng   
+- The Virtual Adviser: https://thevirtualadviser.com.ng   (under maintenance)
   A virtual advisory service offering expert business consulting and personalized advice to startups, individuals and SMEs.
   
-- Breakout Inc.: https://breakoutinc.com.ng   
+- Breakout Inc.: https://breakoutinc.com.ng   (under maintenance)
   An innovative platform that offers poets and writers the global stage to be heard, read, seen and succeed.
 
 - Orange Consultium: https://orangeconsultium.wordpress.com   
   A consulting blog providing insights and strategies for business development and operational efficiency.
 
-- Sell Your Startup: https://sellyourstartup.com.ng   
+- Sell Your Startup: https://sellyourstartup.com.ng   (under maintenance)
   A platform for entrepreneurs to showcase and sell their startups to potential investors and buyers.
 
 - Signals Point: https://signalspoint.com.ng   
   A financial trading platform that provides users with market signals and investment insights.
 
--  Peak Edu & Travels: https://peaktravels.com.ng    
+-  Job & Travels: https://peaktravels.com.ng   (under maintenance) 
    A service-oriented platform offering educational and travel consultancy for students seeking opportunities abroad.
 
-- Eureka: https://eureka.com.ng   
+- Eureka: https://eureka.com.ng   (under maintenance)
   A platform that helps people connect with lost friends and find lost items with resources and funding opportunities.
 
-- Who is Who: https://whoiswho.com.ng   
+- Who is Who: https://whoiswho.com.ng   (under maintenance)
   A social online directory that profiles influential figures and leaders in various industries across Nigeria and elsewhere.
 
 
@@ -66,6 +66,7 @@ Customer Relationship Management (CRM)
 Whatsapp: +2349151294786     
 Email: nuelodekunle20@gmail.com    
 Linkedin: https://bit.ly/link-emmy   
+Elevator Pitch: 
 Address: Lagos and Sagamu   
 GitHub: https://github.com/nuelodek   
 

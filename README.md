@@ -16,8 +16,11 @@ Customer Relationship Management (CRM)
 
 **Links to portfolio**
 
+- GG Healthcare: https://app.gghealthcare.com
+  A platform to track employee clock in and clock out and compliance to time policies.
+
 - Shortchase: https://shortchase.com/  and https://admin.shortchase.com 
-   A dynamic platform offering an easy-to-use solution to predict sporting events and find sure odds.
+  A dynamic platform offering an easy-to-use solution to predict sporting events and find sure odds.
   
 - Gegeto EdTech: https://gegeto.com.ng   
   An educational platform designed to provide students with innovative learning tools and resources.
@@ -60,6 +63,7 @@ Customer Relationship Management (CRM)
 
 - Who is Who: https://whoiswho.com.ng   (under maintenance)
   A social online directory that profiles influential figures and leaders in various industries across Nigeria and elsewhere.
+
 
 
 **Contact Info**

@@ -16,6 +16,13 @@ Customer Relationship Management (CRM)
 
 **Links to portfolio**
 
+
+- PennySchool - https://pennyschool.app
+- A platform to simplify school fees and other fee payments for universities, and other institutions
+
+- Cheshire ITTC - https://cheshireittc.co.uk
+  Built a Wordpress plugin to send confirmation emails to clients.
+  
 - GG Healthcare: https://app.gghealthcare.com
   A platform to track employee clock in and clock out and compliance to time policies.
 

@@ -17,8 +17,8 @@ Customer Relationship Management (CRM)
 **Links to portfolio**
 
 - Linkedin Job Tracker: 
-- Built a chrome extention package for tracking Linkedin jobs application and sending reminders.
-- 
+  Built a chrome extension package for tracking Linkedin jobs application and sending reminders.
+  
 - PennySchool - https://pennyschool.app
   A platform to simplify school fees and other fee payments for universities, and other institutions
 
@@ -72,7 +72,6 @@ Customer Relationship Management (CRM)
 
 - Who is Who: https://whoiswho.com.ng   (under maintenance)
   A social online directory that profiles influential figures and leaders in various industries across Nigeria and elsewhere.
-
 
 
 **Contact Info**

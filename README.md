@@ -16,9 +16,11 @@ Customer Relationship Management (CRM)
 
 **Links to portfolio**
 
-
+- Linkedin Job Tracker: 
+- Built a chrome extention package for tracking Linkedin jobs application and sending reminders.
+- 
 - PennySchool - https://pennyschool.app
-- A platform to simplify school fees and other fee payments for universities, and other institutions
+  A platform to simplify school fees and other fee payments for universities, and other institutions
 
 - Cheshire ITTC - https://cheshireittc.co.uk
   Built a Wordpress plugin to send confirmation emails to clients.

@@ -28,9 +28,6 @@ Customer Relationship Management (CRM)
 - GG Healthcare: https://app.gghealthcare.com
   A platform to track employee clock in and clock out and compliance to time policies.
 
-- Shortchase: https://shortchase.com/  and https://admin.shortchase.com 
-  A dynamic platform offering an easy-to-use solution to predict sporting events and find sure odds.
-  
 - Gegeto EdTech: https://gegeto.com.ng   
   An educational platform designed to provide students with innovative learning tools and resources.
 

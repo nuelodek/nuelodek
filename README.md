@@ -16,6 +16,18 @@ Customer Relationship Management (CRM)
 
 **Links to portfolio**
 
+- Aura Copilot
+  A VSCode extension and agentic for writing and modifying codes.
+  
+- Silent Reel - https://silentreel.com.ng
+  A LLM/Artifical intelligent AI that creates short and long videos, and automatically schedules them on various social media
+  
+- Suits & Gowns - https://suitsandgowns.com.ng
+  A full flegded Laravel e-commerce website for sale of corporate wears and causaul.
+  
+- Orbit by GrowSoccial:
+  Built a chrome extension for the GrowSocial platform for connecting youtubers and content creators.
+
 - Linkedin Job Tracker: 
   Built a chrome extension package for tracking Linkedin jobs application and sending reminders.
   

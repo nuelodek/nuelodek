@@ -11,7 +11,8 @@ WordPress, PhpMyAdmin, PuttySSH, VSCode, Unity,
 ChatGPT,	Postman, Google Workspace
 
 **Programming Languages I can speak better than English**
-Kotlin, ReactNative, React, PhP, Flutter, C#, NodeJS, Java.
+
+TypeScript, Kotlin, ReactNative, React, PhP, Flutter, C#, NodeJS, Java.
 
 **SKILL CLOUD**   
 Forex Trading,	Programming	Animation,	Prototyping and UI/UX,  

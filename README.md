@@ -23,6 +23,11 @@ Financial Analysis, Marketing Strategy, Customer Relationship Management (CRM)
 
 **The Beautiful Soup I Cook with Codes**
 
+- PennyRent: https://pennyrentng.com
+- VMall: https://vmall.com.ng
+- EliteTrader: https://elitetrader.com
+- Easiland: https://easiland.com.ng
+- Shortchase: https://shortcase.com
 - Makari World: https://makari.world
   A social media platform that rivals Instagram.
     
